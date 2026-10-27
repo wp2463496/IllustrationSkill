@@ -1,0 +1,4 @@
+interface:
+  display_name: "主体影像工坊"
+  short_description: "把单张照片制作成保持原图尺寸的主体艺术海报"
+  default_prompt: "使用 $subject-editorial-poster 将这张照片制作成上半摄影保真、下半主体拼贴的艺术海报，严格保持原图尺寸与方向。"
